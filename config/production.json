@@ -1,0 +1,6 @@
+{
+  "port": "5000",
+  "jwtSecret": "vita secret key",
+  "mongoUri": "mongodb+srv://vitaliya:Warsaw28042018@cluster0-gxmi5.azure.mongodb.net/test?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
